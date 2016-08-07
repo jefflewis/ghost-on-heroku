@@ -1,8 +1,8 @@
 {
-  "name": "Ghost on Heroku",
-  "description": "Just a blogging platform",
-  "logo": "https://cdn.rawgit.com/TryGhost/Ghost-Admin/61fe83dff375a145d5272a5382aa2c72bd994830/public/assets/img/large.png",
-  "repository": "https://github.com/cobyism/ghost-on-heroku",
+  "name": "Chloe Alexa",
+  "description": "",
+  "logo": "http://chloe-alexa-blog.s3.amazonaws.com/chloe-alexa-logo-black.png",
+  "repository": "https://github.com/jefflewis/ghost-on-heroku",
   "success_url": "/ghost",
   "addons": [
     "heroku-postgresql",
