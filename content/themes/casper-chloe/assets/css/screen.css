@@ -851,9 +851,11 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: auto;
+    height: 200px;
     padding: 1px 0 5px 0;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu-button {
