@@ -6,7 +6,7 @@
   "readmeFilename": "README.md",
   "description": "The default theme for [Ghost](http://github.com/tryghost/ghost/).",
   "_id": "Casper@1.3.1",
-  "_shasum": "ebc39c500f0da996ffb7518d47bc147ec242072f",
+  "_shasum": "8671a2dfaaa45b9ef90d649caecd135ccd18630e",
   "_from": "tryghost/Casper#1.3.1",
   "_resolved": "git://github.com/tryghost/Casper.git#5c51195ca6cafbe3948c72b1461ad91b6195cff3"
 }
